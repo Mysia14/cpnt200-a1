@@ -1,3 +1,9 @@
+## Attributions:
+
+- [Pexel Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/)
+
+
+
 # cnpt200-a1 - Content Management Systems
 
 ## Build Setup
