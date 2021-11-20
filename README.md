@@ -1,10 +1,23 @@
+# CPNT200-a1 - Content Management Systems
+## Author: 
+Mysia Santana
+
+## Links:
+* GH repo:
+* Netlify page:
+ #### Code Review:
+ - The way how the Vue uses the components it was what I liked most. And how we van work with the Tailwindcss.
+ - Unfortunately I had a bad time wiht my image that was not loadinhg. I thought that could be my nuxt-link that coulbe be broken or some syntax error but after a couple hours working on it I realized that was something wrong with image that I ahve chosen, even its was in my root directory. So the issue was fixed when I got another image from the Pexel's website.
+
+
 ## Attributions:
 
-- [Pexel Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/)
+- Fesal Baday for help wiht my Gitignore VS Code Markdow's issue.
+- Ashlyn Knox for help wiht my next-img setup (it was not loading at first trying).
+- Image from [Pexel Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
 
 
 
-# cnpt200-a1 - Content Management Systems
 
 ## Build Setup
 
