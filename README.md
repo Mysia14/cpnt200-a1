@@ -3,17 +3,17 @@
 Mysia Santana
 
 ## Links:
-* GH repo:
-* Netlify page:
+* GH repo: https://mysia14.github.io/cpnt200-a1/
+* Page trough: (localhost:3000)
  #### Code Review:
- - The way how the Vue uses the components it was what I liked most. And how we van work with the Tailwindcss.
+ - The way how the Vue uses the components it was what I liked most and how work with the Tailwindcss. It has pretty good flow. I really enjoyed and I wish have more time to discover more features. Its pretty a nice tool.
  - Unfortunately I had a bad time wiht my image that was not loadinhg. I thought that could be my nuxt-link that coulbe be broken or some syntax error but after a couple hours working on it I realized that was something wrong with image that I ahve chosen, even its was in my root directory. So the issue was fixed when I got another image from the Pexel's website.
 
 
 ## Attributions:
 
 - Fesal Baday for help wiht my Gitignore VS Code Markdow's issue.
-- Ashlyn Knox for help wiht my next-img setup (it was not loading at first trying).
+- Ashlyn Knox for help wiht my nuxt-img setup (it was not loading at first trying).
 - Image from [Pexel Craig Adderley](https://www.pexels.com/photo/concrete-road-between-trees-1563356/).
 
 
@@ -86,8 +86,6 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
-## Attributions:
-* Pom photo  - pexels
-## Links:
+
 
 
