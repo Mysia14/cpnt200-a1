@@ -3,8 +3,8 @@
 Mysia Santana
 
 ## Links:
-* GH repo: https://mysia14.github.io/cpnt200-a1/
-* Page trough: (localhost:3000)
+* [GH repo] (https://github.com/Mysia14/cpnt200-a1)
+* [Netlify] (https://keen-clarke-ac1eea.netlify.app/)
  #### Code Review:
  - The way how the Vue uses the components it was what I liked most and how work with the Tailwindcss. It has pretty good flow. I really enjoyed and I wish have more time to discover more features. Its pretty a nice tool.
  - Unfortunately I had a bad time wiht my image that was not loadinhg. I thought that could be my nuxt-link that coulbe be broken or some syntax error but after a couple hours working on it I realized that was something wrong with image that I ahve chosen, even its was in my root directory. So the issue was fixed when I got another image from the Pexel's website.
